@@ -1,0 +1,25 @@
+
+# docs
+doc
+docs
+
+# tests
+test
+coverage
+
+# build tools
+.travis.yml
+.jenkins.yml
+.codeclimate.yml
+
+# linters
+.jscsrc
+.jshintrc
+.eslintrc*
+.estlintignore
+
+# editor settings
+.idea
+.editorconfig
+.history
+.vscode
