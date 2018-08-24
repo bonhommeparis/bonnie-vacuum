@@ -1,6 +1,6 @@
 {
   "name": "@bonhomme/bonnie-vacuum",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "BonhommeParis Agent sniffer",
   "main": "lib/index.js",
   "scripts": {
