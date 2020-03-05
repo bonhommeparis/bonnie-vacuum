@@ -1,6 +1,6 @@
 {
   "name": "@bonhomme/bonnie-vacuum",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "BonhommeParis Agent sniffer",
   "main": "dist/bonnie-vacuum.cjs.js",
   "module": "dist/bonnie-vacuum.esm.js",
