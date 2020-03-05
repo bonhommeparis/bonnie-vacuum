@@ -38,9 +38,11 @@ export type BrowserInfos = {
     isEdge: Boolean;
 };
 
-type VacuumBrowser = BrowserInfos & {
+export type VacuumBrowser = BrowserInfos & {
     addClasses(el: HTMLElement): void;
     getInfos(): BrowserInfos;
 };
 
-export default VacuumBrowser;
+declare const Vacuum: VacuumBrowser;
+
+export default Vacuum;
