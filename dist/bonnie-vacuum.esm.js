@@ -1,4 +1,3 @@
-
 /**
  * A browser sniffing util.
  * Most of the code come from https://github.com/watsondg/sniffer
@@ -206,4 +205,6 @@ class Vacuum
     }
 }
 
-export default new Vacuum();
+var index = new Vacuum();
+
+export default index;

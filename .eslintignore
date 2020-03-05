@@ -12,4 +12,4 @@
 /src/javascript/vendors/**
 /src/javascript/vendors/utils/**
 test.js
-/lib/**
+/dist/**

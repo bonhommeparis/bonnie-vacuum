@@ -1,3 +1,4 @@
+'use strict';
 
 /**
  * A browser sniffing util.
@@ -206,4 +207,6 @@ class Vacuum
     }
 }
 
-export default new Vacuum();
+var index = new Vacuum();
+
+module.exports = index;

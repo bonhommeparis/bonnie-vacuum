@@ -23,3 +23,10 @@ coverage
 .editorconfig
 .history
 .vscode
+
+# osx
+.DS_Store
+
+# npm
+npm-debug.log
+npm-debug.log.*
