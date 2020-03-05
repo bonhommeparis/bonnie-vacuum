@@ -39,7 +39,7 @@ export type BrowserInfos = {
 };
 
 export type VacuumBrowser = BrowserInfos & {
-    addClasses(el: HTMLElement): void;
+    addClasses(el?: HTMLElement): void;
     getInfos(): BrowserInfos;
 };
 

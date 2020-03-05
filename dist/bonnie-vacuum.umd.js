@@ -1,5 +1,5 @@
 /*!
-  * @bonhomme/bonnie-vacuum 1.0.6
+  * @bonhomme/bonnie-vacuum 1.0.7
   * Licensed under MIT, https://opensource.org/licenses/MIT/
   * Please visit https://github.com/bonhommeparis/bonnie-vacuum for details.
   */
