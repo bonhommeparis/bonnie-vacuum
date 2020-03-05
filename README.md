@@ -43,3 +43,7 @@ To watch (test-driven development) :
 ```sh
 npm run test:watch
 ```
+
+## Thanks
+Almost all of the original code come from [Watsondg's sniffer](https://github.com/watsondg/sniffer).
+I just added a few more functions.
